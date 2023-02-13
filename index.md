@@ -26,7 +26,7 @@
 Используйте `round(*, 2)` вместо `"%.2f"`
 
 
-[**Ссылка на мой GitHub**](https://github.com/GallSerg/AboutMe "и на текущий текст")
+[**Ссылка на мой GitHub**](https://github.com/GallSerg/AboutMeCayman "и на текущий текст")
 
 
 ### **И фото**
