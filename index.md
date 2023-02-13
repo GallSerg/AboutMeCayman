@@ -1,123 +1,34 @@
----
-layout: default
----
+# **Обо мне**
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## **О моей работе**
 
-[Link to another page](./another-page.html).
+Я уже 5 лет являюсь аналитиком в компании GreenData, которая занимается разработкой собственной одноименной low-code платформы.
 
-There should be whitespace between paragraphs.
+## **Мой путь в программировании**
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+3 месяца назад решил углубиться в аналитику и обратил внимание на язык программирования *Python*.
 
-# Header 1
+В школе и университете изучал *Pascal* и *C++*, но *Python* понравился больше:
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+* *Python*, как мне кажется, проще в изучении;
+* Менее требователен к синтаксису (простой и понятный);
+* Имеет большое количество библиотек с удобными функциями;
+* и т.д. 
 
-## Header 2
+Как и все, я начал с __такого__ кода:  
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+    print('Hello, world!')  
 
-### Header 3
+А теперь решаю задачи со \*
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### **Мой совет**
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Используйте `round(*, 2)` вместо `"%.2f"`
 
 
-### Definition lists can be used with HTML syntax.
+[**Ссылка на мой GitHub**](https://github.com/GallSerg/AboutMe "и на текущий текст")
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+### **И фото**
 
-```
-The final element.
-```
+![Мое фото](https://lh3.googleusercontent.com/pw/AMWts8BqefwjGeVYwJYijJdwglr7zHHuOQu7Vny_tGrlTZ34zdg1g4FOcxRhzHjFhpIBtzl4mT7-jMm4oQDHvTutrtqSvdmdayjXAmCxbntUNI0cIUx-cHr3oRgtMAPJBcWAv7DsWLnlBIAc3xgpKef6RtPv=w525-h933-no?authuser=0)
